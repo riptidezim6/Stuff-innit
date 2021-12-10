@@ -104,7 +104,7 @@
             this.button6.BackColor = System.Drawing.Color.Black;
             this.button6.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button6.ForeColor = System.Drawing.Color.White;
-            this.button6.Location = new System.Drawing.Point(13, 101);
+            this.button6.Location = new System.Drawing.Point(14, 98);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(96, 41);
             this.button6.TabIndex = 24;
@@ -159,7 +159,7 @@
             this.Controls.Add(this.button7);
             this.Controls.Add(this.button8);
             this.Name = "Form4";
-            this.Text = "Form4";
+            this.Text = "S";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
